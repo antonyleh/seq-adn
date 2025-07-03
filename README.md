@@ -1,5 +1,3 @@
-# Projet PF5
-
 ### Introduction du Projet : Analyse de Séquences ADN en Programmation Fonctionnelle
 
 Ce projet a pour objectif de manipuler et d'analyser des séquences d'ADN en utilisant la programmation fonctionnelle en OCaml. Les séquences d'ADN, composées de quatre bases nucléiques (cytosine, guanine, adénine, thymine), codent les protéines nécessaires aux activités biochimiques des cellules. Le projet se divise en plusieurs parties, dont l'extraction de gènes à partir de brins d'ADN, le calcul de séquences consensus, et l'utilisation d'expressions régulières pour l'analyse de données génomiques.
