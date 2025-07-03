@@ -32,3 +32,8 @@ Pour le lancer, exécutez la commande `make top`.
 **Tous les tests n'ont pas encore été publiés.**
 Pour lancer tous les tests disponibles, exécutez `make test`.
 Pour tester seulement les fonctions de l'exercice *i*, exécutez `make test-i`.
+
+## Auteur 
+Antony Lehmann
+
+
